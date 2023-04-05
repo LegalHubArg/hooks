@@ -1,8 +1,9 @@
-import pandas as pd
 import numpy as np
-from matplotlib.pyplot import Figure
-from matplotlib.pyplot import Axes
+import pandas as pd
+from matplotlib.pyplot import Axes, Figure
+
+
 def fun(foo):
-    """docstring"""
-    bar = foo*2
+    """docstring2"""
+    bar = foo * 2
     return bar
